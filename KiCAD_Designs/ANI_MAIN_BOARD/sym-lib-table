@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ANI_MAIN_BOARD-eagle-import)(type Legacy)(uri ${KIPRJMOD}/ANI_MAIN_BOARD-eagle-import.lib)(options "")(descr ""))
+)

@@ -1,0 +1,16 @@
+(module RST_SW_3.6X8_0.6X1MM (layer F.Cu) (tedit 0)
+  (fp_text reference TACTILE (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
+  )
+  (fp_text value RST_SW_3.6X8_0.6X1MM (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
+  )
+  (fp_line (start 0 0) (end 8 0) (layer F.SilkS) (width 0.127))
+  (fp_line (start 8 0) (end 8 -3.6) (layer F.SilkS) (width 0.127))
+  (fp_line (start 8 -3.6) (end 0 -3.6) (layer F.SilkS) (width 0.127))
+  (fp_line (start 0 -3.6) (end 0 0) (layer F.SilkS) (width 0.127))
+  (pad P$2 smd rect (at 7.55 -1.79) (size 1 0.6) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 0.1016))
+  (pad P$1 smd rect (at 0.5 -1.86) (size 1 0.6) (layers F.Cu F.Paste F.Mask)
+    (solder_mask_margin 0.1016))
+)

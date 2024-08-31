@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ANI_I2C-SERVO_BOARD-eagle-import)(type Legacy)(uri ${KIPRJMOD}/ANI_I2C-SERVO_BOARD-eagle-import.lib)(options "")(descr ""))
+  (lib (name AT90CAN128-16AUR)(type Legacy)(uri /Users/tej/Desktop/AniWorking1_2_pi_CAN/AniCircuits/CAN/Hardware/ANI_CAN_SERVO_BOARD_KICAD/ANI_I2C-SERVO_BOARD/AT90CAN128-16AUR/AT90CAN128-16AUR.lib)(options "")(descr ""))
+)
