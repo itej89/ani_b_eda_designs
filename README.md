@@ -1,5 +1,8 @@
 Hardware designs for Ani-B project
 =======================
+Welcome to the **A.n.i B** Hardware Design repository. The repository is to maintain designs for boards to meet the control and power management needs of a light weight computer with spacial motion.
+
+This repository contains the design files for two boards: the servo driver board (Ani-B-Servo) and the power management board (Ani-B-Power). The servo driver board can drive a single servo, while the power management board takes data from an SBC (Single-Board Computer) via UART, processes it, and sends relevant information to multiple Ani-B-Servo boards via I2C. Additionally, the power management board manages a 3-cell BMS (Battery Management System), controls charging of the battery, and implements button control for power and attention management.
 
 **Table of Contents**
 =======================
@@ -10,14 +13,7 @@ Hardware designs for Ani-B project
 4. [Software Requirements](#software-requirements)
 5. [Getting Started](#getting-started)
 6. [Contributing](#contributing)
-
-**Introduction**
----------------
-
-Welcome to the **A.n.i B** Hardware Design repository. The repository is to maintain designs for boards to meet the control and power management needs of a light weight computer with spacial motion.
-
-This repository contains the design files for two boards: the servo driver board (Ani-B-Servo) and the power management board (Ani-B-Power). The servo driver board can drive a single servo, while the power management board takes data from an SBC (Single-Board Computer) via UART, processes it, and sends relevant information to multiple Ani-B-Servo boards via I2C. Additionally, the power management board manages a 3-cell BMS (Battery Management System), controls charging of the battery, and implements button control for power and attention management.
-
+7. 
 **Features**
 -------------
 
