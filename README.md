@@ -11,7 +11,7 @@ This repository contains the design files for two boards: the servo driver board
 3. [Software Requirements](#software-requirements)
 4. [Getting Started](#getting-started)
 5. [Contributing](#contributing)
-6. 
+
 **Componenets**
 -------------
 
