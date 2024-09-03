@@ -1,5 +1,5 @@
-# Hardware designs for Ani-B project
-=====================================
+Hardware designs for Ani-B project
+=======================
 
 **Table of Contents**
 =======================
