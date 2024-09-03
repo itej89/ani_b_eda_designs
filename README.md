@@ -6,13 +6,13 @@ This repository contains the design files for two boards: the servo driver board
 
 **Table of Contents**
 =======================
-2. [Features](#features)
-3. [Hardware Requirements](#hardware-requirements)
-4. [Software Requirements](#software-requirements)
-5. [Getting Started](#getting-started)
-6. [Contributing](#contributing)
-7. 
-**Features**
+1. [Componenets](#componenets)
+2. [Hardware Requirements](#hardware-requirements)
+3. [Software Requirements](#software-requirements)
+4. [Getting Started](#getting-started)
+5. [Contributing](#contributing)
+6. 
+**Componenets**
 -------------
 
 * Ani-B-Servo control board:
